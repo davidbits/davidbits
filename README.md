@@ -8,7 +8,7 @@ I am an Electrical and Computer Engineering graduate from the University of Cape
 
 * 🌍  Based in Cape Town, South Africa
 * 🖥️  Check out my [portfolio website](http://davidyoung.co.za) for more details about my work and projects.
-* 🚀  Currently working on [FERS](http://github.com/the-user-created/FERS), an exciting project that integrates my skills in software development and problem-solving.
+* 🚀  Currently working on something exciting 😉
 * 🧠  Continuously learning, with a current focus on Kubernetes.
 * 🤝  Open to collaborating on innovative projects and ideas.
 * ⚡  **Fun Fact:** Ask me about sci-fi theories and outer space at your own risk—I might infodump with enthusiasm!
