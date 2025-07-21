@@ -10,7 +10,7 @@ I’m David, an Electrical and Computer Engineering grad from the University of 
 * 🚀  Currently working on something *super* exciting (but I’m not telling you what it is... yet 😉).
 * 🤝  Always open to collaborating on innovative projects (and ideas that might or might not involve building a robot army).
 * ⚡  **Fun Fact:** Ask me about sci-fi theories and outer space at your own risk—I might infodump with enthusiasm!
-* 🖥️  Check out my [website](http://davidyoung.co.za).
+* 🖥️  Check out my [website](https://davidyoung.co.za).
 
 ## Skills
 <table align="center">
