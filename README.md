@@ -85,7 +85,7 @@ I’m David, an Electrical and Computer Engineering grad from the University of 
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=the-user-created&theme=highcontrast" alt="GitHub Streak">
+        <img src="https://streak-stats.demolab.com?user=the-user-created" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
