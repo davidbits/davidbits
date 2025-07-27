@@ -16,10 +16,10 @@ I’m David, an Electrical and Computer Engineering grad from the University of 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="C++" />
+      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="48" height="48" alt="Flutter" />
       </a>
-      <br>C++
+      <br>Flutter
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -28,10 +28,10 @@ I’m David, an Electrical and Computer Engineering grad from the University of 
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="48" height="48" alt="Flutter" />
+      <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="C++" />
       </a>
-      <br>Flutter
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
