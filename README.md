@@ -70,13 +70,13 @@ I’m David, an Electrical and Computer Engineering graduate from the University
       </a>
     </td>
   </tr>
-  <tr>
+  <!--<tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=the-user-created&theme=dark&background=0E0E17&border=5EF6FF&stroke=F0B537&ring=F75049&fire=F0B537&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F0B537&sideLabels=FFFFFF&dates=D6D0D0" alt="GitHub Streak">
       </a>
     </td>
-  </tr>
+  </tr>-->
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
