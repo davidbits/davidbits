@@ -16,6 +16,11 @@
 >
 > — Gilfoyle
 
+<p align="center">
+  Hi, I'm David. I'm a software engineer and MSc candidate specializing in high-performance C++. <br/> 
+  My work is currently focused on redesigning <a href="https://github.com/the-user-created/FERS">FERS</a>, a legacy radar simulation engine.
+</p>
+
 ---
 
 <p align="center">
