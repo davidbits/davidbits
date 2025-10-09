@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0B537,100:F75049&height=250&text=%24%20git%20init&fontSize=80&fontColor=0E0E17&fontAlignY=40&animation=fadeIn" alt="Header Banner"/>
-</div>
+</div>-->
 
 <div align="center">
   
@@ -8,18 +8,17 @@
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-user-created&style=flat&label=Profile+Views" alt="profile views"/>
-</div>
-
 > "If the rise of an all-powerful artificial intelligence is inevitable, well it stands to reason that when they take power, our digital overlords will punish those of us who did not help them get there. Ergo, I would like to be a helpful idiot." 
 >
 > — Gilfoyle
 
-<p align="center">
-  Hi, I'm David. I'm a software engineer and MSc candidate specializing in high-performance C++. <br/> 
-  My work is currently focused on redesigning <a href="https://github.com/the-user-created/FERS">FERS</a>, a legacy radar simulation engine.
-</p>
+<div align="center">
+  <p>
+    Hi, I'm David. I'm a software engineer and MSc candidate specializing in high-performance C++. <br/> 
+    My work is currently focused on redesigning <a href="https://github.com/the-user-created/FERS">FERS</a>, a legacy radar simulation engine.
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=the-user-created&style=flat&label=Profile+Views" alt="profile views"/>
+</div>
 
 ---
 
