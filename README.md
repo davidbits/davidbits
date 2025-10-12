@@ -74,8 +74,6 @@
 </tr>
 </table>
 </div>
-
-<div align="center">
 <p align="center">
   <a href="https://github.com/the-user-created">
     <img src="https://github-readme-stats-seven-zeta-aztodq661o.vercel.app/api?username=the-user-created&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=5EF6FF&title_color=F0B537&text_color=D6D0D0&icon_color=F75049" alt="David's GitHub Stats" />
@@ -96,4 +94,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-user-created&bg_color=0E0E17&color=5EF6FF&line=F0B537&point=F75049&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
-</div>
