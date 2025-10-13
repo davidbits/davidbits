@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0B537,100:F75049&height=250&text=%24%20git%20init&fontSize=80&fontColor=0E0E17&fontAlignY=40&animation=fadeIn" alt="Header Banner"/>
 </div>-->
 
-<div align="center">
+<!--<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=5EF6FF&size=20&lines=0.1x+Developer;Preparing+for+our+AI+overlords...;Master+of+starting+new+projects;Cat+Herder)](https://git.io/typing-svg)
 
-</div>
+</div>-->
 
 > "If the rise of an all-powerful artificial intelligence is inevitable, well it stands to reason that when they take power, our digital overlords will punish those of us who did not help them get there. Ergo, I would like to be a helpful idiot." 
 >
@@ -17,7 +17,6 @@
     Hi, I'm David. I'm a software engineer and MSc candidate specializing in high-performance C++. <br/> 
     My work is currently focused on redesigning <a href="https://github.com/the-user-created/FERS">FERS</a>, a legacy radar simulation engine.
   </p>
-  <img src="https://komarev.com/ghpvc/?username=the-user-created&style=flat&label=Profile+Views" alt="profile views"/>
 </div>
 
 ---
@@ -31,6 +30,12 @@
 ---
 
 ### 🛠️ Skills & 📊 Stats
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=the-user-created&theme=onedark&no-bg=true&no-frame=true&margin-w=15&title=-Followers,-Stars,-Reviews" alt="Trophy"/>
+  </a>
+</p>
+
 <div align="center">
 <table>
 <tr>
@@ -84,13 +89,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=the-user-created&theme=onedark&no-bg=true&no-frame=true&margin-w=15&title=-Followers,-Stars,-Reviews" alt="Trophy"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-user-created&bg_color=0E0E17&color=5EF6FF&line=F0B537&point=F75049&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=the-user-created&style=flat&label=Profile+Views" alt="profile views"/>
+</div>
