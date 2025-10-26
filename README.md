@@ -81,9 +81,6 @@
 </div>
 <p align="center">
   <a href="https://github.com/the-user-created">
-    <img src="https://github-readme-stats-seven-zeta-aztodq661o.vercel.app/api?username=the-user-created&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_color=5EF6FF&title_color=F0B537&text_color=D6D0D0&icon_color=F75049" alt="David's GitHub Stats" />
-  </a>
-  <a href="https://github.com/the-user-created">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-user-created&theme=black-ice&background=0E0E17&border=5EF6FF&stroke=5EF6FF&ring=F0B537&fire=F75049&currStreakNum=D6D0D0&sideNums=D6D0D0&currStreakLabel=D6D0D0&sideLabels=D6D0D0&dates=D6D0D0" alt="GitHub Streak" />
   </a>
 </p>
