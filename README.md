@@ -32,7 +32,7 @@
 ### 🛠️ Skills & 📊 Stats
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=the-user-created&theme=onedark&no-bg=true&no-frame=true&margin-w=15&title=-Followers,-Stars,-Reviews" alt="Trophy"/>
+    <img src="https://github-profile-trophy-sage-mu.vercel.app/?username=the-user-created&theme=onedark&no-bg=true&no-frame=true&margin-w=15&title=-Followers,-Stars,-Reviews" alt="Trophy"/>
   </a>
 </p>
 
