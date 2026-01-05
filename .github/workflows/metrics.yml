@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
 jobs:
   github-metrics:
+    if: false
     runs-on: ubuntu-latest
     permissions:
       contents: write

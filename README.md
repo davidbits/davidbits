@@ -9,13 +9,13 @@
   </samp>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/the-user-created">
     <picture>
       <img src="https://github.com/the-user-created/the-user-created/blob/main/metrics.svg" alt="Metrics">
     </picture>
   </a>
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://u8views.com/api/v1/github/profiles/65959534/views/day-week-month-total-count.svg" width="0" height="0" alt="views">
