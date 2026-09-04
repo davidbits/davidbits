@@ -3,7 +3,7 @@
     <a href="https://davidyoung.co.za">me</a> .
     <a href="https://dyner.ai/">dyner</a> .
     <a href="https://davidyoung.co.za/#projects-heading">projects</a> .
-    <a href="https://www.linkedin.com/in/davidyoung-devs/">linkedin</a> .
+    <a href="https://www.linkedin.com/in/davidyoung-devs/">linkedin</a>
   </samp>
 </p>
 
